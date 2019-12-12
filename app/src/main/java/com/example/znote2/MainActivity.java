@@ -10,14 +10,9 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
-import android.widget.Button;
-import android.widget.FrameLayout;
-import android.widget.TextView;
-import android.widget.Toast;
 
-import com.entity.Note;
 import com.fragment.MyNoteFragment;
-import com.fragment.NoteListFragment;
+
 import com.fragment.OnNoteClickListener;
 import com.viewmodel.NoteViewModel;
 
